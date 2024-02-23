@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=will-jv&label=Visitors&color=e32400&style=flat" alt="will-jv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=will-jv" alt="will-jv" /></a> </p>
 
 - Countries lived in: **Malaysia, Singapore, Japan**
 
@@ -22,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=will-jv&show_icons=true&theme=dark&locale=en" alt="will-jv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=will-jv&theme=dark" alt="will-jv" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=will-jv" alt="will-jv" /></a> </p>
