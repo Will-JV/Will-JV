@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=will-jv&theme=dark" alt="will-jv" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=will-jv" alt="will-jv" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark"><img src="https://github-profile-trophy.vercel.app/?username=will-jv" alt="will-jv" /></a> </p>
