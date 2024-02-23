@@ -32,3 +32,7 @@
 
 
 ![alt text](https://icons8.com/icon/bZefrDU7buNb/photo-album)
+
+<a  href="https://icons8.com/icon/bZefrDU7buNb/photo-album">Photo Album</a> icon by <a href="https://icons8.com">Icons8</a>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/000000/photo-album.png" alt="photo-album"/>
